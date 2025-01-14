@@ -19,16 +19,16 @@
 ---
 
 ### 1. Aufgabenübersicht
-| **Aufgabe**                      | **Bearbeiter/in**    | **Status**      | **Bemerkungen**            |
-|----------------------------------|----------------------|-----------------|----------------------------|
-| Projektstruktur erstellt         | [Steffen]              | Abgeschlossen   | Erste Ordnerstruktur festgelegt. |
-| GitHub-Organisation & Github-Repos eingerichtet      |[Steffen]              | Abgeschlossen   | Repository und Projektboards angelegt. |
-| Rollenaufteilung definiert       | [Colin]              | Abgeschlossen   | Scrum Master, Product Owner, Solution Architects und Entwickler festgelegt. Sub-Teams eingeteilt. |
-| Einrichtung VPS und Bereitstellungsplattform | [Steffen]              | Abgeschlossen   | Hochfahren des VPS. Einrichtung von Dokploy. |
-| Basis für Front- und Backend erstellt. | [Alan] [Andreas]             | Abgeschlossen   | Projekt für Front- und Backend erstellt und auf Github bereitgestellt. |
-| Einrichtung Scrum-Board 'Taiga.io'        | [Steffen]              | Abgeschlossen   | Scrum-Board erstellt, eingerichtet und alle Projektteilnehmer eingeladen. |
-| Basis des Pflichtenhefts erstellt und bereitgestellt.         | [Lukas] [Daniel] [Milan]  [Bastian]  [David]  [Luis]  [Colin]                  | Abgeschlossen   | Basis-Version des Pflichtenhefts bereitgestellt. LaTex-Dokument erstellt. Skizzierung findet in Google Docs, finale Niederschritt als LaTex-Dokument statt. |
-| Vorlagenerstellung und Beginn Meta-Projektdokumentation | [Steffen] | Abgeschlossen   | Basis-Version der Projektdokumentation angefertigt und begonnen. Dieses wird fortführend zu jedem Sprint erweitert und darin jegliche Meta-Informationen protokolliert.|
+| **Aufgabe**                      | **Bearbeiter/in**                                            | **Status**      | **Bemerkungen**            |
+|----------------------------------|--------------------------------------------------------------|-----------------|----------------------------|
+| Projektstruktur erstellt         | [Steffen]                                                    | Abgeschlossen   | Erste Ordnerstruktur festgelegt. |
+| GitHub-Organisation & Github-Repos eingerichtet      | [Steffen]                                                    | Abgeschlossen   | Repository und Projektboards angelegt. |
+| Rollenaufteilung definiert       | [Colin]                                                      | Abgeschlossen   | Scrum Master, Product Owner, Solution Architects und Entwickler festgelegt. Sub-Teams eingeteilt. |
+| Einrichtung VPS und Bereitstellungsplattform | [Steffen]                                                    | Abgeschlossen   | Hochfahren des VPS. Einrichtung von Dokploy. |
+| Basis für Front- und Backend erstellt. | [Alan] ,[Andreas]                                            | Abgeschlossen   | Projekt für Front- und Backend erstellt und auf Github bereitgestellt. |
+| Einrichtung Scrum-Board 'Taiga.io'        | [Steffen]                                                    | Abgeschlossen   | Scrum-Board erstellt, eingerichtet und alle Projektteilnehmer eingeladen. |
+| Basis des Pflichtenhefts erstellt und bereitgestellt.         | [Lukas], [Daniel] ,[Milan],[Bastian],[David],[Luis] ,[Colin] | Abgeschlossen   | Basis-Version des Pflichtenhefts bereitgestellt. LaTex-Dokument erstellt. Skizzierung findet in Google Docs, finale Niederschritt als LaTex-Dokument statt. |
+| Vorlagenerstellung und Beginn Meta-Projektdokumentation | [Steffen]                                                    | Abgeschlossen   | Basis-Version der Projektdokumentation angefertigt und begonnen. Dieses wird fortführend zu jedem Sprint erweitert und darin jegliche Meta-Informationen protokolliert.|
 ---
 
 ### 2. Meta-Fragen und Entscheidungen mit deren Begründung
@@ -82,15 +82,16 @@
 ---
 
 ### 1. Aufgabenübersicht
-| **Aufgabe**                      | **Bearbeiter/in**    | **Status**      | **Bemerkungen**            |
-|----------------------------------|----------------------|-----------------|----------------------------|
-| Research KI-Komponente             | [Name]              | Offen           | Noch nicht begonnen.       |
-| Mailservice             | [Name]              | Offen           | Noch nicht begonnen.       |
-| Projektdokumenationen             | [Name]              | Offen           | Noch nicht begonnen.       |
-| Benutzerbereich            | [Name]              | Offen           | Noch nicht begonnen.       |
-| Produktkatalog            | [Name]              | Offen           | Noch nicht begonnen.       |
-| Admin-Dashboard             | [Name]              | Offen           | Noch nicht begonnen.       |
-| Containerisierung & GitHub-Workflow            | [Name]              | Offen           | Noch nicht begonnen.       |
+| **Aufgabe**                         | **Bearbeiter/in**                                     | **Status**   | **Bemerkungen**                                                                                                                                                                                                                                                  |
+|-------------------------------------|-------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Research KI-Komponente              | [Bastian]                                             | Abgeschlossen | Research welche KI-Kompnente in unserem Webshop implementiert werden könnte.                                                                                                                                                                                     |
+| Mailservice                         | [Steffen]                                             | Abgeschlossen | Entwicklung eines Mailservices in Go. Mailservice mit Queue-Funktion, Multi-Recipients, HTML-Templates. Bereitstellung auf dem VPS.                                                                                                                              |
+| Projektdokumenationen               | [Lukas], [David], [Colin]                             | Abgeschlossen     | Fortführen des Pflichtenheftes. Niederschrift in LaTex-Dokument zu gewissen Abständen.                                                                                                                                                                           |
+| Diagramm- und Skizzenerstellung     | [Luis], [Milan], [Steffen]                            | Abgeschlossen | Erstellung Use-Case-Diagramm sowie System-Architekturgrafik.                                                                                                                                                                                                     |
+| Benutzerbereich                     | [Andreas],[Alan], [Steffen], [Julian], [Paul], [Noah] | Abgeschlossen | Gast-Bereich auf dem Frontend. Im Backend Erstellung des User-Modells für Registrierung, Login und weiteres.                                                                                                                                                     |
+| Produktkatalog                      | [Andreas],[Alan], [Steffen]                           | Abgeschlossen | V1 des Shops auch in Angular bereitgestellt. Darstellung der Produkte. Gast-Ansicht ohne User-Login.                                                                                                                                                             |
+| Admin-Dashboard                     | [Alan]                                                | Abgeschlossen | Bereitstellung Admin-Dashboard in Django. Dort können User, Artikel und weiteres verwaltet werden.                                                                                                                                                               |
+| Containerisierung & GitHub-Workflow | [Steffen], [Alan]                                     | Abgeschlossen | Containerisierung des gesamten Projektes. Aufrechterhaltung der 2-Branch-Strategie in Test und Prod. Bereitstellung auf dem VPS via Dokploy. Eigenes Deploy-Repo, dieses wird mit den darinliegenden Submodules automatisch via GH Action Workflow aktualisiert. |
 
 ---
 
@@ -108,7 +109,75 @@
 
 - **Vorgehensweise, wie neue Features und generelle Überarbeitungen für den B2B-Webshop eruiert und festgesetzt werden:**  
   - Neue Features und Überarbeitungen werden im Team gemeinsam erarbeitet. In regelmäßigen Meetings brainstormen wir, welche Ideen im aktuellen Entwicklungsstadium sinnvoll und umsetzbar sind. Alle Teammitglieder bringen Vorschläge ein, die anschließend im Scrum Board dokumentiert werden. Projektteilnehmer wählen sich anschließend Aufgaben aus, wobei auch die Zusammenarbeit mehrerer Personen an einer Aufgabe möglich ist, um Synergieeffekte zu nutzen und Wissenslücken auszugleichen.
+ 
+- **Wieso wird die Dokumentation in LaTex verfasst und nicht in einem anderen Format?**
+  - LaTex bietet eine klare Strukturierung und Formatierung von Dokumenten, die für technische Dokumentationen ideal ist. Es ermöglicht die einfache Einbindung von Diagrammen, Tabellen und Code-Snippets, was die Dokumentation übersichtlich und professionell macht. Zudem ist LaTex plattformunabhängig und erlaubt eine effiziente Zusammenarbeit im Team, da Änderungen versioniert und nachvollziehbar sind.
 
+- **Weshalb erstellen wir die Diagramme, Modelle oder Skizzen in Draw.io und speichern diese in einem Repository?**  
+  - Durch die vorhandene **Draw.io VS Code Extension** können wir Diagramme direkt in unserer Entwicklungsumgebung bearbeiten, ohne externe Programme installieren zu müssen.  
+  - Die fertigen Diagramme lassen sich als **PNG oder SVG exportieren** und problemlos in unsere LaTeX-Dokumentation einbinden.  
+  - Durch die Speicherung im Repository bleiben alle Änderungen nachvollziehbar. Änderungen können über Pull Requests überprüft und versioniert werden.  
+  - Teammitglieder können parallel an Diagrammen arbeiten, indem sie XML-Dateien bzw. DIO-Dateien über Git teilen und bei Bedarf Änderungen zusammenführen.  
+
+---
+
+### 3. Retrospektive
+
+#### Was lief gut?
+- Die Aufgaben konnten größtenteils zügig erledigt werden, ohne größere technische Schwierigkeiten.  
+- Kleingruppen-Sessions für Entwicklung und Dokumentation haben gut funktioniert und zu produktivem Arbeiten beigetragen.  
+- Die Aufgabenverwaltung über das Taiga Board lief strukturiert: Aufgaben wurden vom Lead eingestellt, selbstständig übernommen und aktiv im Board verwaltet (In Progress → Testen → Abschluss).  
+
+#### Was lief nicht gut?
+- Durch die Weihnachtsfeiertage war die Motivation zeitweise geringer, wodurch das Projekt für einige Tage pausierte.  
+- Nicht alle Teammitglieder waren bei wichtigen Absprachen anwesend, was zu Verzögerungen und Unklarheiten führte.  
+- Die Kommunikation musste in manchen Fällen aktiv von den Gruppenleads angestoßen werden, um Fortschritte sicherzustellen.  
+
+#### Verbesserungsmaßnahmen
+- **Gezieltere Kommunikation**: Regelmäßige Abstimmungstermine als Discord-Events einplanen, um Verfügbarkeit sicherzustellen.  
+- **Effizientere Aufgabenverteilung**: Aufgaben im Scrum Board werden gezielt von 1-2 Personen angelegt, damit eine klare Struktur gewährleistet ist.  
+- **Verantwortlichkeiten klären**: Unzugewiesene Aufgaben werden aktiv besprochen, um zu prüfen, wer Kapazitäten hat und diese übernehmen kann.  
+
+---
+## Sprint 2
+### Zeitraum: [28.12.2024] - [22.01.2025]
+
+---
+
+### 1. Aufgabenübersicht
+| **Aufgabe**                        | **Bearbeiter/in**    | **Status**      | **Bemerkungen**            |
+|------------------------------------|----------------------|-----------------|----------------------------|
+| Aufgabe                            | [Name]              | Offen           | Noch nicht begonnen.       |
+| Aufgabe                        | [Name]              | Offen           | Noch nicht begonnen.       |
+| Aufgabe                 | [Name]              | Offen           | Noch nicht begonnen.       |
+| Aufgabe                      | [Name]              | Offen           | Noch nicht begonnen.       |
+| Aufgabe                     | [Name]              | Offen           | Noch nicht begonnen.       |
+| Aufgabe                     | [Name]              | Offen           | Noch nicht begonnen.       |
+| Aufgabe   | [Name]              | Offen           | Noch nicht begonnen.       |
+
+---
+
+### 2. Meta-Fragen und Entscheidungen
+
+- **Wieso werden wir, vorerst, keine Unit Tests oder anderweitige, automatisierte Tests integrieren?**  
+  - Aufgrund der begrenzten Zeit und der kleinen Teamgröße setzen wir unseren Fokus auf die Kernentwicklung und das Deployment des B2B-Webshops. Anstelle automatisierter Tests nutzen wir ein **4-Augen-Prinzip**, bei dem Code-Änderungen von anderen Teammitgliedern überprüft werden, bevor sie in den Release-Branch übergehen.  
+
+  - Durch unsere **zwei-Branch-Strategie** können nicht-entwickelnde Teammitglieder neue Features und Änderungen in der Dev-Umgebung ausgiebig testen und etwaige Fehler oder Verbesserungsvorschläge an das Dev-Team zurückmelden.  
+
+  - Zusätzlich führen Entwickler vor jedem Commit lokale Tests durch – beispielsweise API-Tests mit **Postman** oder direkte Funktionsüberprüfungen im Frontend. So stellen wir sicher, dass Erweiterungen stabil sind, bevor sie in das Repository übernommen werden.  
+
+- **Weshalb nutzen wir einen eigenen Mailservice, anstatt einen externen Anbieter zu verwenden?**  
+  - Ein eigener Mailservice bietet uns mehr Kontrolle über den Versand von E-Mails und ermöglicht eine individuelle Anpassung an unsere Anforderungen. Wir können beispielsweise spezifische Templates und Inhalte erstellen, personalisierte E-Mails versenden und den Versandprozess in unsere Anwendung integrieren.  
+
+  - Durch die Integration eines eigenen Mailservices können wir außerdem die Performance und Zuverlässigkeit des Versands optimieren, da wir die Infrastruktur und den Workflow selbst verwalten. Dies gibt uns die Flexibilität, den Service bei Bedarf anzupassen und zu erweitern. Zudem hosten wir das gesamte Projekt ohnehin auf einem VPS, der entwickelte Mailservice in Go ist ressourceneffizient und passt gut in unsere Infrastruktur.
+
+- **Welchen Grund gibt es, dass Sprint 0 eine kürzere Dauer hat als Sprint 1 sowie Sprint 2?**  
+  - **Sprint 0** diente primär der **Projektinitialisierung**, einschließlich Infrastrukturaufbau, Planung und grundlegender Setup-Aufgaben. Da hier noch keine umfangreiche Entwicklung stattfand, war eine kürzere Sprint-Dauer ausreichend.  
+  - **Sprint 1** fiel in eine Zeit mit Feiertagen und verstärktem Vorlesungsaufwand, wodurch die verfügbare Arbeitszeit begrenzt war.  
+  - **Sprint 2** fokussiert sich stärker auf die eigentliche Entwicklung. Da unser Entwicklerteam vergleichsweise klein ist, benötigen wir längere Phasen, um Features gründlich umzusetzen. Zudem haben wir festgestellt, dass **zwei Wochen für einen Sprint zu kurz** sind, um größere Entwicklungsaufgaben effizient abzuschließen.  
+  - Eine längere Sprint-Dauer ermöglicht uns außerdem **ausführlichere Tests und stabilere Releases**, ohne den Druck zu erhöhen.  
+- **Metafrage 4**  
+  - [Antwort]
 ---
 
 ### 3. Retrospektive
