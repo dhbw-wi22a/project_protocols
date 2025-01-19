@@ -124,19 +124,22 @@
 ### 3. Retrospektive
 
 #### Was lief gut?
-- Die Aufgaben konnten größtenteils zügig erledigt werden, ohne größere technische Schwierigkeiten.  
-- Kleingruppen-Sessions für Entwicklung und Dokumentation haben gut funktioniert und zu produktivem Arbeiten beigetragen.  
-- Die Aufgabenverwaltung über das Taiga Board lief strukturiert: Aufgaben wurden vom Lead eingestellt, selbstständig übernommen und aktiv im Board verwaltet (In Progress → Testen → Abschluss).  
+Was lief gut?
+- Die meisten Aufgaben konnten ohne größere technische Schwierigkeiten abgeschlossen werden. Dies zeigt, dass der gewählte Techstack und die Arbeitsmethodik funktionierten.
+- Kleingruppen-Sessions zur Entwicklung und Dokumentation waren produktiv. Sie ermöglichten gezieltes Arbeiten und förderten den Austausch spezifischer Fachkenntnisse.
+- Das Taiga Board wurde effizient genutzt. Aufgaben wurden vom Lead angelegt, selbstständig von Teammitgliedern übernommen und aktiv im Workflow (In Progress → Testen → Abschluss) verwaltet. Dies sorgte für klare Verantwortlichkeiten und Transparenz im Projektfortschritt.
 
 #### Was lief nicht gut?
-- Durch die Weihnachtsfeiertage war die Motivation zeitweise geringer, wodurch das Projekt für einige Tage pausierte.  
-- Nicht alle Teammitglieder waren bei wichtigen Absprachen anwesend, was zu Verzögerungen und Unklarheiten führte.  
-- Die Kommunikation musste in manchen Fällen aktiv von den Gruppenleads angestoßen werden, um Fortschritte sicherzustellen.  
+- Durch die Feiertage kam es zu einer Projektpause, die den Gesamtrhythmus und die Dynamik des Teams zeitweise beeinträchtigte.
+- Nicht alle Teammitglieder waren bei wichtigen Meetings oder Absprachen anwesend. Dies führte zu Verzögerungen, Missverständnissen und teilweise doppeltem Arbeitsaufwand.
+- In einigen Fällen musste die Kommunikation aktiv von Gruppenleads angestoßen werden, da Fortschritte nicht eigenständig gemeldet wurden. Dies sorgte für zusätzlichen Koordinationsaufwand. 
 
 #### Verbesserungsmaßnahmen
-- **Gezieltere Kommunikation**: Regelmäßige Abstimmungstermine als Discord-Events einplanen, um Verfügbarkeit sicherzustellen.  
-- **Effizientere Aufgabenverteilung**: Aufgaben im Scrum Board werden gezielt von 1-2 Personen angelegt, damit eine klare Struktur gewährleistet ist.  
-- **Verantwortlichkeiten klären**: Unzugewiesene Aufgaben werden aktiv besprochen, um zu prüfen, wer Kapazitäten hat und diese übernehmen kann.  
+- **Gezieltere Kommunikation:** Regelmäßige Abstimmungstermine festlegen, z. B. wöchentliche Team-Calls oder Stand-ups. Diese können über Tools wie Discord oder Teams organisiert werden. Discord-Events helfen, die Verfügbarkeit aller Mitglieder besser zu planen. Protokolle aller Besprechungen sollten erstellt und geteilt werden, um Abwesende über die Ergebnisse auf dem Laufenden zu halten.
+- **Effizientere Aufgabenverteilung:** Aufgaben im Scrum-Board sollten gezielt von 1-2 Personen (z. B. Gruppenleads) angelegt werden, um eine klare Struktur sicherzustellen. Eine regelmäßige Überprüfung des Boards, etwa in Sprint-Meetings, hilft, den Fortschritt zu überwachen und Hindernisse frühzeitig zu erkennen.
+- **Klärung von Verantwortlichkeiten:** Unzugewiesene Aufgaben sollten in Meetings aktiv angesprochen werden. Dabei könnte man eine Kapazitätsprüfung vornehmen, um Aufgaben fair zu verteilen. Die Einführung von Verantwortungsrollen, z. B. ein „Task Owner“ für jede Aufgabe, sorgt für klare Zuständigkeiten.
+- **Motivationssteigerung:** Für Feiertage oder andere schwierige Zeiträume können kleinere, erreichbare Zwischenziele gesetzt werden, um die Motivation aufrechtzuerhalten. Eine Feedback-Kultur, in der Fortschritte regelmäßig anerkannt werden, kann die Teamdynamik verbessern.
+- **Bessere Planung für Absprachen:** Nutzung von Doodle oder ähnlichen Tools, um Besprechungen besser auf die Verfügbarkeiten des Teams abzustimmen. Alternativ könnte ein fester Meeting-Tag eingeführt werden, der wöchentlich eingehalten wird.
 
 ---
 ## Sprint 2
