@@ -145,14 +145,14 @@
 ### 1. Aufgabenübersicht
 | **Aufgabe**                        | **Bearbeiter/in**    | **Status**      | **Bemerkungen**            |
 |------------------------------------|----------------------|-----------------|----------------------------|
-| Projektdokumentation                            | [Lukas], [David]              | Offen           | Pflichtenheft wird fortgeführt, regelmäßige LATEX-Synchronisation.         |
-| Unternehmensfunktionen                        | [Andreas], [Steffen]              | Offen           | Backend und Frontend des Company-Bereich, Backend und Frontend von Gruppierungen und Subuserfunktionen, geteilte Einkaufslisten.     |
-| Benutzerbereich II                 | [Andreas],   | Offen           | Backend und Frontend der Benutzerverwaltung.       |
-| E-Mail Benachrichtigungen                      | [Steffen], [Daniel], [David]              | Offen           | Backend der E-Mail Funktionen, HTML-Templates    |
-| KI-Chatbot                     | [Basti]              | Offen           | Konzeption und Erstellung des KI-Chatbot      |
-| Organisation                     | [Lukas],[Luis], [Steffen]              | Offen           | Erweiterung der Modellskizzen, Meta-Dokumentation für Sprint 2, Retroperspektive für Sprint 1      |
-| Produktkatalog   | [Andreas]              | Offen           | Frontend und Backend des Betsellprozess, Frontend und Backend der Produktfilterung, Frontend und Backend der Kategorisierung       |
-| Storyless tasks   | [Andreas], [Julian], [Steffen]                | Offen           | Anzeige der Rechtstexte, Responsive Design, Optimierung der Frontend-Ansicht       |
+| Projektdokumentation                            | [Lukas], [David]              | Abgeschlossen           | Pflichtenheft wird fortgeführt, regelmäßige LATEX-Synchronisation.         |
+| Unternehmensfunktionen                        | [Andreas], [Steffen]              | Abgeschlossen           | Backend und Frontend des Company-Bereich, Backend und Frontend von Gruppierungen und Subuserfunktionen, geteilte Einkaufslisten.     |
+| Benutzerbereich II                 | [Andreas],   | Abgeschlossen           | Backend und Frontend der Benutzerverwaltung.       |
+| E-Mail Benachrichtigungen                      | [Steffen], [Daniel], [David]              | Abgeschlossen           | Backend der E-Mail Funktionen, HTML-Templates    |
+| KI-Chatbot                     | [Basti]              | Abgeschlossen           | Konzeption und Erstellung des KI-Chatbot      |
+| Organisation                     | [Lukas],[Luis], [Steffen]              | Abgeschlossen           | Erweiterung der Modellskizzen, Meta-Dokumentation für Sprint 2, Retroperspektive für Sprint 1      |
+| Produktkatalog   | [Andreas]              | Abgeschlossen           | Backend des Betsellprozess, Frontend und Backend der Produktfilterung, Frontend und Backend der Kategorisierung       |
+| Storyless tasks   | [Andreas], [Julian], [Steffen]                | Abgeschlossen           | Anzeige der Rechtstexte, Responsive Design, Optimierung der Frontend-Ansicht       |
 ---
 
 ### 2. Meta-Fragen und Entscheidungen
