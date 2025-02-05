@@ -174,19 +174,35 @@
   - **Sprint 1** fiel in eine Zeit mit Feiertagen und verstärktem Vorlesungsaufwand, wodurch die verfügbare Arbeitszeit begrenzt war.  
   - **Sprint 2** fokussiert sich stärker auf die eigentliche Entwicklung. Da unser Entwicklerteam vergleichsweise klein ist, benötigen wir längere Phasen, um Features gründlich umzusetzen. Zudem haben wir festgestellt, dass **zwei Wochen für einen Sprint zu kurz** sind, um größere Entwicklungsaufgaben effizient abzuschließen.  
   - Eine längere Sprint-Dauer ermöglicht uns außerdem **ausführlichere Tests und stabilere Releases**, ohne den Druck zu erhöhen.  
-- **Metafrage 4**  
-  - [Antwort]
+- **Weshalb nutzen wir als KI-Komponente den ChatBot von BotPres?**  
+  - Nahtlose Integration in den Webshop und ermöglicht eine einfache Implementierung.
+  - Automatisiert die Kundeninteraktion, indem er Anfragen in Echtzeit beantwortet und so die Nutzererfahrung verbessert.
+  - Durch die automatische Bearbeitung häufig gestellter Fragen entlastet er den Support und ermöglicht eine effizientere Nutzung der Ressourcen.
+  - Dank seiner hohen Anpassungsfähigkeit kann der ChatBot individuell auf unsere spezifischen Anforderungen und unser Geschäftsmodell abgestimmt werden.
+  - Die zugrunde liegende KI-Technologie macht den Bot lernfähig, sodass er kontinuierlich dazulernt und seine Antworten optimiert.
+  - Er überzeugt durch eine zuverlässige Performance mit hoher Verfügbarkeit und stabiler Funktionalität.
+  - Die Sicherheitsstandards von BotPres erfüllen die notwendigen Anforderungen für einen sicheren Betrieb in unserem Webshop.
+  - Durch die intelligente Unterstützung der Kunden trägt der ChatBot dazu bei, den Bestell- und Serviceprozess zu optimieren und die Nutzerführung zu verbessern.
 ---
 
 ### 3. Retrospektive
 #### Was lief gut?
-- [Punkte einfügen]
+- Die meisten Aufgaben und Ziele konnten erfolgreich abgeschlossen werden, nur wenige Ausnahmen blieben offen.
+- Zusätzliche Features wurden eingeführt, was zur Weiterentwicklung des Projekts beigetragen hat.
+- Die Gruppendynamik in den unteren Gruppen funktionierte gut, was zu einer effizienten Zusammenarbeit führte.
+- Trotz einzelner Herausforderungen konnten insgesamt deutliche Fortschritte erzielt werden.
 
 #### Was lief nicht gut?
-- [Punkte einfügen]
+- Einzelne Gruppenmitglieder haben bestimmte Aufgaben nicht erledigt, wodurch diese nicht in den Sprint integriert werden konnten.
+- Aufgrund der unerledigten Aufgaben konnten einige geplante Sprint-Ziele nicht erreicht werden.
+- Es gab eine mangelnde Kommunikation innerhalb der Gruppe, insbesondere beim Anfordern von Unterstützung oder beim Melden von Problemen.
+- Da einige Aufgaben nicht im geplanten Sprint umgesetzt werden konnten, mussten sie in den nächsten Sprint verschoben werden.
 
 #### Verbesserungsmaßnahmen
-- [Maßnahmen einfügen]
+- Regelmäßige und gezielte Nachfrage nach dem aktuellen Status der Aufgaben bei den jeweiligen Gruppenmitgliedern, um frühzeitig Probleme zu erkennen.
+- Förderung einer offenen Kommunikationskultur, in der Mitglieder sich frühzeitig melden, wenn sie Unterstützung benötigen oder Schwierigkeiten haben.
+- Einführung klar definierter Deadlines für Zwischenstände, um sicherzustellen, dass Aufgaben kontinuierlich vorankommen.
+- Falls notwendig, frühzeitige Umverteilung von Aufgaben innerhalb des Teams, um Verzögerungen zu vermeiden.
 
 ---
 
