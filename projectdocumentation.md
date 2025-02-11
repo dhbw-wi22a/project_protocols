@@ -206,3 +206,63 @@
 
 ---
 
+## Sprint 3
+### Zeitraum: [23.01.2025] - [06.02.2025]
+
+---
+
+# 1. Aufgabenübersicht
+
+| **Aufgabe**                                   | **Bearbeiter/in**           | **Status**       | **Bemerkungen**  |
+|----------------------------------------------|----------------------------|------------------|----------------------------|
+| Frontend - Bestellprozess als reg. User      | Andreas                    | Abgeschlossen    | Funktion wurde eingebaut und ist nun im Frontend funktionsfähig. |
+| Backend - E-Mail bei Bestellabwicklung       | Steffen                     | Abgeschlossen    | User erhält eine E-Mail mit Bestellbestätigung. |
+| Dokumentation KI-Komponente                  | Bastian                     | Abgeschlossen    | Konzeption und Implementierung der KI-Komponente dokumentiert. |
+| Diagramme finalisieren                       | Luis, Noah                  | Abgeschlossen    | Sequenzdiagramme erstellt und finalisiert. |
+| Präsentation vorbereiten                     | Steffen                     | Abgeschlossen    | Präsentation erstellt, Inhalte eingepflegt und bereit zur Präsentation. |
+| Pflichtenheft LaTeX-Dokumentation finalisieren | Colin, Steffen            | Abgeschlossen    | LaTeX-Dokumentation finalisiert und bereit für die Abgabe. |
+| Produktsuche im Frontend                     | Andreas                     | Abgeschlossen    | Produktsuche implementiert und getestet, funktioniert – ggf. Anpassungen mit Fuzzy Search. |
+| Produktdaten Bulk-Upload mit CSV             | Steffen                     | Abgeschlossen    | Produktdatenupload per Maske / Datei für Masseneingabe bereitgestellt und funktionsfähig. |
+| Retrospektive Sprint 2                       | Steffen                     | Abgeschlossen    | Retrospektive erstellt. |
+| Sprint-Dokumentation Sprint 3 finalisieren   | Steffen                     | Abgeschlossen    | Retrospektive vom letzten Sprint fertiggestellt, bereit zur Abgabe. |
+| Gruppenfunktionen im Backend                 | Steffen                     | Abgeschlossen    | Gruppenerstellung, Ansicht und Member-Hinzufügen funktionieren per Postman/Swagger – ready to use für Frontend-Entwicklung. |
+| Frontend - Gruppenbereich (Anzeigen, Erstellen, Managen) | Noah      | Abgebrochen      | Aufgrund fehlendem Know-how und keiner Hilfeanforderung nicht umgesetzt. |
+| Frontend/Backend - Kategorien-Funktion (Filter) | -        | Abgebrochen      | Aufgrund fehlender Zeit nicht umgesetzt. |
+---
+
+### 2. Meta-Fragen und Entscheidungen
+
+- **Hat sich Scrum als Projektmethode bewährt?**  
+  - Ja, für die aktiven Teammitglieder war Scrum eine gute Wahl, da Ergebnisse schnell sichtbar wurden und das iterative Vorgehen die kontinuierliche Verbesserung ermöglicht hat.  
+  - Besonders die regelmäßigen Sprints sorgten dafür, dass stetige Fortschritte erzielt wurden und ein klarer Fokus auf die wichtigsten Features gelegt werden konnte.  
+
+- **War Taiga eine gute Option als Projektmanagement-Tool?**  
+  - Ja, die Aufgabenübersicht war gut strukturiert und verständlich. Taiga ließ sich schnell aufsetzen und war einfach in der Nutzung.  
+  - Ein Kritikpunkt war, dass Aufgaben nur einem Bearbeiter zugewiesen werden konnten. Falls zwei Personen an einer Aufgabe gearbeitet haben, musste dies manuell in den Kommentaren dokumentiert oder eine separate Aufgabe erstellt werden.  
+  - Für zukünftige Projekte wäre eine Alternative wie **GitLab** eine Überlegung wert, da dort eine flexiblere Zuweisung von Aufgaben möglich ist.  
+
+- **Wie effizient war die Aufgabenverteilung innerhalb des Teams?**  
+  - In der Theorie war die Aufgabenverteilung klar, jedoch gab es Herausforderungen in der Praxis. Einige Teammitglieder haben sich weitgehend aus der aktiven Mitarbeit zurückgezogen und nur minimal zur Umsetzung beigetragen.  
+  - Dadurch mussten andere Teammitglieder zusätzliche Arbeit übernehmen, was zu einer unausgeglichenen Arbeitslast führte.  
+
+- **Hat die Nutzung von Taiga unseren Entwicklungsprozess unterstützt?**  
+  - Insgesamt ja, da es eine einfache Struktur für die Aufgabenverwaltung geboten hat.  
+  - Allerdings zeigte sich, dass für größere Teams mit flexibleren Arbeitsweisen eine Plattform wie **GitLab** oder ein vergleichbares Tool möglicherweise besser geeignet wäre.  
+
+- **Wären mehr regelmäßige Meetings oder eine andere Kommunikationsstrategie sinnvoll gewesen?**  
+  - Vermutlich nicht. Mehr Abstimmungstermine hätten die Gruppendynamik nicht maßgeblich verbessert.  
+  - Die Herausforderungen lagen weniger in der Anzahl der Meetings als vielmehr in der individuellen Motivation und Mitarbeit einzelner Teammitglieder.  
+  - Die bereits etablierten Meetings waren ausreichend, um den Fortschritt zu koordinieren.  
+---
+
+### 3. Retrospektive
+#### Was lief gut?
+- Das finale Testing verlies positiv und alles umgesetzte hatte funktionalität.
+
+#### Was lief nicht gut?
+- Die Gruppendynamik war weiterhin eher negativ. Aufgrund eines "eisneren Kerns" konnten jedoch die Grundfunktionen umgesetzt werden.
+- Selbst bei Fertigstellung und Präsentation hat sich die Mehrheit der Gruppe enthalten.
+
+#### Verbesserungsmaßnahmen
+- 
+---
